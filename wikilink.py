@@ -38,7 +38,7 @@ class WikiConnector:
             else:
                 break
             
-            return link
+        return link
         
 if __name__ == "__main__":
     connector = WikiConnector()
